@@ -1,1 +1,48 @@
+body
+{
+	background-color: palevioletred;
+	text-align: center;
+}
+table 
+{ border-color: red;
+
+}
+
+#chicken
+{
+	font-size: 50px;
+	font-family: sans-serif;
+	color: red;
+
+}
+#meals
+{
+	color: red;
+}
+
+
+
+#menu
+{
+	color: red;
+}
+
+
 #img {text-align: center;}
+
+#text 
+{	text-align: center; 
+	text-color: red;
+}
+
+}
+#link
+{
+	font-family: initial;
+}
+#chickenmeals
+{
+	color: green;
+}
+
+
